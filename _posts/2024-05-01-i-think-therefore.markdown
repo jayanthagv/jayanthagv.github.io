@@ -2,7 +2,7 @@
 layout: post
 title:  "I think, therefore I am (or am I?)"
 date:   2024-05-01 01:49:25 +0000
-categories: jekyll update
+categories: philosophy
 ---
 Am I real? Is there any proof that I exist? Is there any proof that the things I see, hear, touch, and smell are real? These are the questions Descartes asked himself a few centuries ago.
 
