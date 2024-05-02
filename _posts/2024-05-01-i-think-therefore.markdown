@@ -32,3 +32,5 @@ Isn’t the sense of being an observer just another thought?
 
 If I’m not even the observer of my thoughts and emotions since the sense of being an observer is just a thought, then who/what am “I”?
 
+
+{% include mixpanel.html %}
