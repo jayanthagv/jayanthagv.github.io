@@ -19,23 +19,26 @@ My inner monologue went like this - \
 *“Of course, there are other ways to bet and other strategies to try, but I’m sure all of them would probably give me similar outcomes. This casino wouldn’t be in business otherwise.”*\
 *“What’s the point of doing this?”*
 
-And so I found myself distracted and bored. In fact, this was not the only time I’ve seen this happen to me. I’ve discovered, many other times, that when I’m bored, it’s simply because I subconsciously believe there’s no point in doing what I’m doing.
+And so I found myself distracted and bored. In fact, this was not the only time I’ve seen this happen to me. \
+I’ve discovered, many other times, that when I’m bored, it’s simply because I subconsciously believe there’s no point in doing what I’m doing.
 
 Conversely, whenever I come out of being completely engaged in an immensely enjoyable activity, I realize I’d forgotten to ask myself, *“What’s the point of doing this?”*.\
 I’ve found that tasks that have a sufficient amount of novelty often cause me to forget to ask this question.
 
 Of course, I’m certainly glad I did ask this question that day in Vegas; otherwise, my losses might have been more than just a hundred dollars.
 
-And yet, whenever I’ve asked this question too many times a day, I’ve found myself feeling gloomy and lethargic. If I let myself feel this way for too many days in a row, I always end up feeling miserable and apathetic.
+And yet, whenever I’ve asked this question too many times a day, I’ve found myself feeling gloomy and lethargic. \
+If I let myself feel this way for too many days in a row, I always end up feeling miserable and apathetic.
 
 Does this mean I’m doomed to keep doing unimportant things to keep myself happy?
 
 Back in high school, I enjoyed nothing as much as math. I used to spend hours filled with a sense of wonder and excitement, with the occasional adrenaline rush whenever I solved a really hard problem. From what my friends have told me, they feel the same way when they play PC games (and I do too!). I’m sure many of my math studies were in a state of [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) where I had not attempted to assess the importance of what I was doing.\
 If you’d told past me that I’d never end up becoming a mathematician or a scientist, I don’t think I would’ve studied it.
 
-And yet, today I can see that the time I spent studying math has helped me in ways I couldn’t have possibly known back then (more than just limiting my losses in Vegas). Math completely changed the way I think (for the better).
+And yet, today I can see that the time I spent studying math has helped me in ways I couldn’t have possibly known back then (more than just limiting my losses in Vegas).\
+Math completely changed the way I think (for the better).
 
-I guess this means that my brain is very poor at predicting the future payoff of most of the things I do.
+I guess this means that my brain is very poor at predicting the future payoff of most of the things I do.\
 With the exception being a few things that I know, for sure, are not worth it.
 
 
