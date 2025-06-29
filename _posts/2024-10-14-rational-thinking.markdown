@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I don't believe in Rational Thinking"
+title:  "Why Rational Thinking is Overrated"
 date:   2024-10-14 01:49:25 +0000
 categories: random
 published: true
@@ -106,11 +106,6 @@ These mutual funds are probably filled with some of the smartest people, some of
 And yet, all you have to do to beat them is just blindly invest in the biggest 500 companies in the country - barely any thinking required
 
 It’s important to note that I am not saying that you shouldn’t invest in mutual funds, or that you shouldn’t try to pick stocks. All I’m saying is that it’s too easy to come up with a convincing rational argument for why a stock will go up, when it actually won’t
-
-### What is rational thinking good for?
-I don’t have any problems with rational thinking that provides some kind of mathematical certainty. If you’re building a rocket, for example, math & physics (a form of rational thinking?) can help you decide how fast it needs to go to escape gravity
-
-You could also use rational thinking to decide what sort of empirical data to collect, but I have a feeling that the most impactful of these kinds of decisions are powered by intuition and curiosity anyway
 
 ### What else can we do if not think rationally?
 Using rational thinking for very complex decisions, especially when stakes are high, seems to be dangerous. Especially when you don’t have enough time to carefully vet your logical arguments. In some cases, you might only find flaws in them years after making the “rational” decision
